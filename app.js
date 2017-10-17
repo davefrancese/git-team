@@ -1,4 +1,4 @@
-var body = document.getElementsByTagName('body')
+var container = document.getElementById('container')
 var p = document.createElement('p')
 
 
